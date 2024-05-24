@@ -1,0 +1,21 @@
+* {
+  padding-left: 5px;
+}
+
+.successMessage {
+  border: red;
+  border-radius: 5px;
+  width: 500px;
+  color: rgb(189, 14, 14);
+  background-color: rgb(248, 118, 118);
+  font-size: 30px;
+}
+
+.errorMessage {
+  border: red;
+  border-radius: 5px;
+  width: 500px;
+  color: rgb(189, 14, 14);
+  background-color: rgb(248, 118, 118);
+  font-size: 30px;
+}
